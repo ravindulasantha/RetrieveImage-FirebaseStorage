@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487158212368",
+    "project_id": "retrieveimagefirebase-70165",
+    "storage_bucket": "retrieveimagefirebase-70165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487158212368:android:7a1a64bc92183ff435a795",
+        "android_client_info": {
+          "package_name": "com.example.retrieveimagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487158212368-0hv67fplidnc5uc5uimvi2h38uinhhb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2BKvpN7tyq2Ix7ac8ADseI_tpLWtfLHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487158212368-0hv67fplidnc5uc5uimvi2h38uinhhb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
